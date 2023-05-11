@@ -1,0 +1,327 @@
+[
+    {
+        "name":"Cabin emergency & loose equipment checcklist (CELEC)",
+        "quantity": 6,
+        "location":["Under jumpseat"],
+        "pre_flightCheck":["present"],
+        "id":1
+    },{
+        "name":"Cabin emergency checcklist (CEC)",
+        "quantity": 6,
+        "location":["Under jumpseat"],
+        "pre_flightCheck":["present"],
+        "id":2
+    },{
+        "name":"Emergancy locator transmitter RESCU 406SE (ELT 1)",
+        "quantity": 1,
+        "location":["G7"],
+        "pre_flightCheck":["present"],
+        "id":3
+    },{
+        "name":"Emergancy locator transmitter RESCU 406SG (ELT 1)",
+        "quantity": 1,
+        "location":["G7"],
+        "pre_flightCheck":["present"],
+        "id":4
+    },{
+        "name":"ELT 2 (The new one)",
+        "quantity": 1,
+        "location":["Overhead bin row 1 LHS"],
+        "pre_flightCheck":["present", "correctly stowed", "armed"],
+        "id":5
+    },{
+        "name":"Fuselage Mounted ELT",
+        "quantity": 1,
+        "location":["Sealing between row 27 & 28"],
+        "pre_flightCheck":[],
+        "id":6
+    },{
+        "name":"Chemical Fire Extinguisher",
+        "quantity": 1,
+        "location":["G7", "Above CCM2 or CCM3"],
+        "pre_flightCheck":["presure", "The seal and the ring pin is placed thu the lever and the handle"],
+        "id":7
+    },{
+        "name":"Chemical Fire Extinguisher",
+        "quantity": 1,
+        "location":["G7", "Above CCM2 or CCM3"],
+        "pre_flightCheck":["presure", "The seal and the ring pin is placed thu the lever and the handle"],
+        "id":7
+    },{
+        "name":"Water Fire Extinguisher",
+        "quantity": 1,
+        "location":["G7", "G4"],
+        "pre_flightCheck":["presure", "The seal and the ring pin is placed thu the lever and the handle"],
+        "id":8
+    },{
+        "name":"Water Fire Extinguisher",
+        "quantity": 1,
+        "location":["G7", "G4"],
+        "pre_flightCheck":["presure", "The seal and the ring pin is placed thu the lever and the handle"],
+        "id":8
+    },{
+        "name":"Fire Gloves",
+        "quantity": 2,
+        "location":["G7", "G4"],
+        "pre_flightCheck":["present"],
+        "id":9
+    },{
+        "name":"Fire Gloves",
+        "quantity": 2,
+        "location":["G7", "G4"],
+        "pre_flightCheck":["present"],
+        "id":9
+    },{
+        "name":"Power Megaphone",
+        "quantity": 1,
+        "location":["G7", "LEW"],
+        "pre_flightCheck":["present"],
+        "id":10
+    },{
+        "name":"Power Megaphone",
+        "quantity": 1,
+        "location":["G7", "LEW"],
+        "pre_flightCheck":["present"],
+        "id":10
+    },{
+        "name":"Protective Breathing Equipment (PBE)",
+        "quantity": 2,
+        "location":["G7", "CCM2", "CCM3"],
+        "pre_flightCheck":["present", "seald"],
+        "id":11
+    },{
+        "name":"Protective Breathing Equipment (PBE)",
+        "quantity": 2,
+        "location":["G7", "CCM2", "CCM3"],
+        "pre_flightCheck":["present", "seald"],
+        "id":11
+    },{
+        "name":"Protective Breathing Equipment (PBE)",
+        "quantity": 2,
+        "location":["G7", "CCM2", "CCM3"],
+        "pre_flightCheck":["present", "seald"],
+        "id":11
+    },{
+        "name":"Emergancy Flashlight Type EF 1",
+        "quantity": 6,
+        "location":["Under jumpseat"],
+        "pre_flightCheck":["present", "seald", "blinking light 3-10sec red"],
+        "id":12
+    },{
+        "name":"Emergancy Flashlight Type Air Lite 1E LED",
+        "quantity": 6,
+        "location":["Under jumpseat"],
+        "pre_flightCheck":["present", "seald", "Press-to-test button and get green light"],
+        "id":13
+    },{
+        "name":"Torch",
+        "quantity": 1,
+        "location":["CCM1", "CCM2"],
+        "pre_flightCheck":["present"],
+        "id":14
+    },{
+        "name":"Torch",
+        "quantity": 1,
+        "location":["CCM1", "CCM2"],
+        "pre_flightCheck":["present"],
+        "id":14
+    },{
+        "name":"Portable Emergancy Oxygen Bottles",
+        "quantity": 2,
+        "location":["G7"],
+        "pre_flightCheck":["present", "pressure 1500psi (min)", "Q-500psi min"],
+        "id":15
+    },{
+        "name":"Portable Emergancy Oxygen Bottles",
+        "quantity": 3,
+        "location":["LEW"],
+        "pre_flightCheck":["present", "pressure 1500psi (min)", "Q-500psi min"],
+        "id":15
+    },{
+        "name":"Mask For O2",
+        "quantity": 4,
+        "location":["G7"],
+        "pre_flightCheck":["present"],
+        "id":16
+    },{
+        "name":"Mask For O2",
+        "quantity": 2,
+        "location":["per bottle"],
+        "pre_flightCheck":["present"],
+        "id":16
+    },{
+        "name":"Portable Pulse O2 Bottles",
+        "quantity": 2,
+        "location":["G7", "LEW", "CCM3"],
+        "pre_flightCheck":["present", "On/Off is on off", "pressure 1500-1850 psi","mask is attached"],
+        "id":17
+    },{
+        "name":"Portable Pulse O2 Bottles",
+        "quantity": 2,
+        "location":["G7", "LEW", "CCM3"],
+        "pre_flightCheck":["present", "On/Off is on off", "pressure 1500-1850 psi","mask is attached"],
+        "id":17
+    },{
+        "name":"Portable Pulse O2 Bottles",
+        "quantity": 2,
+        "location":["G7", "LEW", "CCM3"],
+        "pre_flightCheck":["present", "On/Off is on off", "pressure 1500-1850 psi","mask is attached"],
+        "id":17
+    },{
+        "name":"First Aid Kit (FAK)",
+        "quantity": 1,
+        "location":["G7"],
+        "pre_flightCheck":["present", "seald white"],
+        "id":18
+    },{
+        "name":"First Aid Kit (FAK)",
+        "quantity": 2,
+        "location":["LEW"],
+        "pre_flightCheck":["present", "seald white"],
+        "id":18
+    },{
+        "name":"Aircraft Supply Kit (ASK)",
+        "quantity": 1,
+        "location":["G7"],
+        "pre_flightCheck":["present", "2xseald white", "white= new","green= used but can be used again", "red= not usable"],
+        "id":19
+    },{
+        "name":"Defibrillator",
+        "quantity": 1,
+        "location":["G7"],
+        "pre_flightCheck":["present"],
+        "id":20
+    },{
+        "name":"Medical Oxygen Equipment Bag",
+        "quantity": 1,
+        "location":["G4"],
+        "pre_flightCheck":["present","seald"],
+        "id":21
+    },{
+        "name":"Life Jackets Pax",
+        "quantity": 186,
+        "location":["Under jumpseat"],
+        "pre_flightCheck":["present"],
+        "id":22
+    },{
+        "name":"Life Jackets Crew",
+        "quantity": 6,
+        "location":["Under jumpseat"],
+        "pre_flightCheck":["present"],
+        "id":23
+    },{
+        "name":"Life Jackets & Belt Infants",
+        "quantity": 8,
+        "location":["G2"],
+        "pre_flightCheck":["present"],
+        "id":24
+    },{
+        "name":"Life Jackets & Belt Infants",
+        "quantity": 12,
+        "location":["G4"],
+        "pre_flightCheck":["present"],
+        "id":24
+    },{
+        "name":"Restrain Kit",
+        "quantity": 1,
+        "location":["G7"],
+        "pre_flightCheck":["present","seald"],
+        "id":25
+    },{
+        "name":"Demo Kit",
+        "quantity": 2,
+        "location":["G2"],
+        "pre_flightCheck":["present"],
+        "id":26
+    },{
+        "name":"Demo Kit",
+        "quantity": 1,
+        "location":["G4"],
+        "pre_flightCheck":["present"],
+        "id":26
+    },{
+        "name":"Spare Seat Belt",
+        "quantity": 3,
+        "location":["G4"],
+        "pre_flightCheck":["present"],
+        "id":27
+    },{
+        "name":"Extension Belt (Gray)",
+        "quantity": 3,
+        "location":["G4"],
+        "pre_flightCheck":["present"],
+        "id":28
+    },{
+        "name":"Seat Block Band",
+        "quantity": 3,
+        "location":["G4"],
+        "pre_flightCheck":["present"],
+        "id":29
+    },{
+        "name":"Spare Live Jackets (Adults)",
+        "quantity": 3,
+        "location":["G4"],
+        "pre_flightCheck":["present"],
+        "id":30
+    },{
+        "name":"Red First Aid Bag",
+        "quantity": 1,
+        "location":["406"],
+        "pre_flightCheck":["present", "seald"],
+        "id":31
+    },{
+        "name":"Protective Gloves",
+        "quantity": 1,
+        "location":["CCM1", "CCM2"],
+        "pre_flightCheck":["present"],
+        "id":32
+    },{
+        "name":"Protective Gloves",
+        "quantity": 1,
+        "location":["CCM1", "CCM2"],
+        "pre_flightCheck":["present"],
+        "id":32
+    },{
+        "name":"High Vis Vest",
+        "quantity": 1,
+        "location":["G2", "G4"],
+        "pre_flightCheck":["present"],
+        "id":33
+    },{
+        "name":"High Vis Vest",
+        "quantity": 1,
+        "location":["G2", "G4"],
+        "pre_flightCheck":["present"],
+        "id":33
+    },{
+        "name":"Cabin Library",
+        "quantity": 1,
+        "location":["G2"],
+        "pre_flightCheck":["present"],
+        "id":34
+    },{
+        "name":"OBT/EPOS (PED)",
+        "quantity": "OBTx4 PEDx2",
+        "location":["406"],
+        "pre_flightCheck":["present"],
+        "id":35
+    },{
+        "name":"Life Raft",
+        "quantity": 4,
+        "location":["overhead bin Row 7 & 17 LH/RH"],
+        "pre_flightCheck":["present"],
+        "id":37
+    },{
+        "name":"Escape Slides",
+        "quantity": 4,
+        "location":["each door"],
+        "pre_flightCheck":["present"],
+        "id":38
+    },{
+        "name":"Personal Locator Beacon (PLB)",
+        "quantity": 1,
+        "location":["G2"],
+        "pre_flightCheck":["present"],
+        "id":39
+    }
+]

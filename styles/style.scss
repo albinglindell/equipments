@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.plane{
+    display: flex;
+    flex-direction: column;
+    height: max-content;
+    .planeWrapper{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        div{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            .guessBox{
+                border: 2px solid black;
+                border-radius: 10px;
+                width: 300px;
+                height: 150px;
+                margin: 2%;
+                overflow: scroll;
+                
+                &::-webkit-scrollbar{
+                    display: none;
+                }
+                .equCard{
+                    border: 2px solid black;
+                    border-radius: 10px;
+                }
+                
+            }
+            .movedBox{
+                margin: .5%;
+            }
+        }
+
+    }
+    .image{
+        background-image: url(./img/boing737-800.png);
+        width: 80vw;
+        height: 30vw;
+        background-size: cover;
+        display: flex;
+        align-self: center;
+    }
+    .CorrectBtn{
+       width: 10vw;
+       height: 5vw;
+       align-self: center;
+    }
+}
+.cardWrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    .equCard{
+        background: #DB163F;
+        color: white;
+        text-shadow: 0px 5px 5px black;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+        border: 4px solid black;
+        text-align: center;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: .2rem;
+        margin: 2%;
+        width: 300px;
+        height: max-content;
+        
+        &.over {
+            border: 3px dotted #666;
+          }
+    }
+}
